@@ -86,8 +86,8 @@ Benefits:
 
 Not Allowed: Even if order is
 
--> Cancelled
--> Full fill
+- Cancelled
+- Full fill
 
 ---
 
